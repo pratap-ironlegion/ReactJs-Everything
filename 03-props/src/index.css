@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+  margin: 10;
   padding: 0;
   box-sizing: border-box;
 }
@@ -54,9 +54,8 @@ body {
 
 .card-container {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;   /* centers cards horizontally */
-    gap: 20px;
+    flex-wrap: wrap; 
+    gap: 5rem;       
 }
 
 
